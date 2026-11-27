@@ -1,4 +1,4 @@
-## Normalization and Its Types in Data Science
+## Normalization and Its Types 
 
 Normalization is a data preprocessing technique used to bring numerical data into a common scale. It makes data easier to compare and helps improve the performance of some machine learning algorithms.
 
